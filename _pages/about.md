@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to SCUBA (Scaling Collaborative Unmanned roBots for Autonomy) lab at FAU's Ocean and Mechanical Engineering department"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-A data-driven personal website
+
 ======
 I work as an Assistant Professor in the Ocean and Mechanical Engineering department at Florida Atlantic University, Boca Raton. My duties are:
 
