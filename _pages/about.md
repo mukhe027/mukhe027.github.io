@@ -11,9 +11,49 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 A data-driven personal website
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I work as an Assistant Professor in the Ocean and Mechanical Engineering department at Florida Atlantic University, Boca Raton. My duties are:
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Teaching undergraduate and/or graduate mechanical engineering courses per assigned
+
+teaching schedule each semester; Teaching courses that will include, but not be limited to, the following:
+
+ EGN 3321: Dynamics - Dynamics of particles and rigid bodies, applications of free-
+
+body diagrams, Newton's second law, the impulse-momentum method and the work-
+
+energy principle to solve dynamic problems in mechanical systems.
+
+EAS 4105: Flight Dynamics - This course provides an introduction to the flight
+
+dynamics, modeling and fundamental stability and control aspects of aircraft. The course
+
+covers aircraft roll, pitch and yaw static stability and control basics and develops the full
+
+nonlinear equations of motion. The concept of numerical simulation of these equations
+
+is also introduced. Finally, with the dynamic models in-hand, open-loop response to
+
+actuation of the control systems is analyzed and the concept of closed-loop aircraft
+
+control system design is presented.
+
+EML 6317: Advanced Control Systems - Control design applications via root locus
+
+and frequency-based approaches are explored theoretically and applied to laboratory
+
+systems. Nonlinear sliding mode control theory is introduced and applied to a lab system.
+
+Each student also explores an individual project based on control of a system.
+
+I also provide regular office hours for student consultation and advising;
+
+As an assistant professor, I also pursue scholarly research in Mechanical Engineering or related areas of expertise or interest, including the following topics:Robust and Stable Control Theory, Lateral Vehicle Dynamics, Non-linear Model Predictive Control,Indirect Optimization (PMP),Semidefinite Programming,Multi-Robot Distributed Control,Kalman Filtering Based Estimation. I am also involved with publishing research findings in major peer-reviewed professional journals and/or presenting them at conferences, seminars, or similar venues;
+
+I also participate in department and university-wide events or projects, as designated;
+
+Serving in various academic or administrative committees such as Search and Screen
+
+Committees, Accreditation Review Committees, etc., as designated.
 
 Getting started
 ======
