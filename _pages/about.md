@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 
-
-======
 I work as an Assistant Professor in the Ocean and Mechanical Engineering department at Florida Atlantic University, Boca Raton. My duties are:
 
 Teaching undergraduate and/or graduate mechanical engineering courses per assigned
