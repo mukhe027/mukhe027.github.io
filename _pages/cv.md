@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<embed src="/files/Pratik_CV.pdf" width="800px" height="2100px" />
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
