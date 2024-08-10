@@ -6,13 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src='/images/500x300.png'>
+<img src='/images/scuba.png'>
 
 I am an Assistant Professor in the Ocean and Mechanical Engineering Department at Florida Atlantic University(FAU). I am part of SeaTech at FAU. I head the SCUBA (Scaling Collaborative Unmanned roBots for Autonomy) Lab. Prior to this, I was a Postdoctoral Associate at Minnesota Robotics Institute (MnRI) associated with the Computer Science and Engineering Department at Uniuversity of Minnesota Twin-Cities, I got my PhD in Electrical Engineering from Virginia Tech in 2021. I got my MSc and BSc in Mechanical Engineering from the University of Minnesota Twin-Cities in 2016 and 2014, respectively.
 
- I currently works at the cusp of control theory and learning. My diverse background, that stems from Mechanical, Electrical
-and Computer Science engineering allows me to have a unique perspective to every problem he
-solves. I have extensive experience in software development for energy efficient connected vehicle
+ My research is at the cusp of control theory and learning. My diverse background, that stems from Mechanical, Electrical
+and Computer Science engineering allows me to have a unique perspective to every problem I
+solve. I have extensive experience in software development for energy efficient connected vehicle
 applications, in distributed, stable and safe coordination of multi-robot systems and in applying
 learning methods to control robots for specific applications in agriculture, such as diseases detection
 in wheat crops using autonomous drones and weed termination in cow pastures using autonomous
