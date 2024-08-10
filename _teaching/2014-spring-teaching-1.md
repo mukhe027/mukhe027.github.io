@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Virginia Tech, Electrical and Computer Engineering"
-date: 2014-01-01
+date: 2016-08-22
 location: "Virginia, US"
 ---
 
