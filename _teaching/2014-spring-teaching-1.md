@@ -1,20 +1,21 @@
 ---
-title: "Teaching experience 1"
+title: "ECE 3704: Continuous and Discrete Systems"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Virginia Tech, Electrical and Computer Engineering"
+date: 2016-2017
+location: "Blacksburg, US"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Z-domain analysis, transfer functions, stability and frequency re-
+sponse.
 
-Heading 1
+<!-- Heading 1
 ======
 
 Heading 2
 ======
 
-Heading 3
-======
+Heading 3 -->
+<!-- ====== -->
