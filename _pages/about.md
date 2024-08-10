@@ -8,7 +8,22 @@ redirect_from:
 ---
 
 
-I am an Assistant Professor in the Ocean and Mechanical Engineering Department at FLorida Atlantic University(FAU). I am part of SeaTech at FAU. I head the SCUBA (Scaling Collaborative Unmanned roBots for Autonomy) Lab. Prior to this, I was a Postdoctoral Associate at Minnesota Robotics Institute associated with the Computer Science and Engineering Department at Uniuversity of Minnesota Twin-Cities, I got my PhD in Electrical Engineering from Virginia Tech in 2021. I got my MSc and BSc in Mechanical Engineering from University of Minnesota in 2016 and 2014, respectively.
+I am an Assistant Professor in the Ocean and Mechanical Engineering Department at Florida Atlantic University(FAU). I am part of SeaTech at FAU. I head the SCUBA (Scaling Collaborative Unmanned roBots for Autonomy) Lab. Prior to this, I was a Postdoctoral Associate at Minnesota Robotics Institute (MnRI) associated with the Computer Science and Engineering Department at Uniuversity of Minnesota Twin-Cities, I got my PhD in Electrical Engineering from Virginia Tech in 2021. I got my MSc and BSc in Mechanical Engineering from the University of Minnesota Twin-Cities in 2016 and 2014, respectively.
+
+ I currently works at the cusp of control theory and learning. My diverse background, that stems from Mechanical, Electrical
+and Computer Science engineering allows me to have a unique perspective to every problem he
+solves. I have extensive experience in software development for energy efficient connected vehicle
+applications, in distributed, stable and safe coordination of multi-robot systems and in applying
+learning methods to control robots for specific applications in agriculture, such as diseases detection
+in wheat crops using autonomous drones and weed termination in cow pastures using autonomous
+tractors. My work has been covered by several media houses, most recently by PBS and WDBJ7
+network for research on agricultural robots and search and rescue operations, respectively.
+
+Outside of research, I am involved with endurance sports. I completed my first marathon at
+the Medtronic Twin Cities Marathon 2022. My fascination for space travel lead me to obtain a
+PADI open water diver license as I think scuba diving is the closest thing to space walk and so I
+want to explore scuba diving and the under-water world, that is largely unseen.
+
 
 <!-- Getting started
 ======
