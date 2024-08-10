@@ -5,7 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Virginia Tech, Electrical and Computer Engineering"
 date: 2016-2017
-location: "Blacksburg, US"
+location: "Virginia, US"
 ---
 
 Z-domain analysis, transfer functions, stability and frequency re-
