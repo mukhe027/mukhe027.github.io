@@ -8,51 +8,9 @@ redirect_from:
 ---
 
 
-I work as an Assistant Professor in the Ocean and Mechanical Engineering department at Florida Atlantic University, Boca Raton. My duties are:
+I am an Assistant Professor in the Ocean and Mechanical Engineering Department at FLorida Atlantic University(FAU). I am part of SeaTech at FAU. I head the SCUBA (Scaling Collaborative Unmanned roBots for Autonomy) Lab. Prior to this, I was a Postdoctoral Associate at Minnesota Robotics Institute associated with the Computer Science and Engineering Department at Uniuversity of Minnesota Twin-Cities, I got my PhD in Electrical Engineering from Virginia Tech in 2021. I got my MSc and BSc in Mechanical Engineering from University of Minnesota in 2016 and 2014, respectively.
 
-Teaching undergraduate and/or graduate mechanical engineering courses per assigned
-
-teaching schedule each semester; Teaching courses that will include, but not be limited to, the following:
-
- EGN 3321: Dynamics - Dynamics of particles and rigid bodies, applications of free-
-
-body diagrams, Newton's second law, the impulse-momentum method and the work-
-
-energy principle to solve dynamic problems in mechanical systems.
-
-EAS 4105: Flight Dynamics - This course provides an introduction to the flight
-
-dynamics, modeling and fundamental stability and control aspects of aircraft. The course
-
-covers aircraft roll, pitch and yaw static stability and control basics and develops the full
-
-nonlinear equations of motion. The concept of numerical simulation of these equations
-
-is also introduced. Finally, with the dynamic models in-hand, open-loop response to
-
-actuation of the control systems is analyzed and the concept of closed-loop aircraft
-
-control system design is presented.
-
-EML 6317: Advanced Control Systems - Control design applications via root locus
-
-and frequency-based approaches are explored theoretically and applied to laboratory
-
-systems. Nonlinear sliding mode control theory is introduced and applied to a lab system.
-
-Each student also explores an individual project based on control of a system.
-
-I also provide regular office hours for student consultation and advising;
-
-As an assistant professor, I also pursue scholarly research in Mechanical Engineering or related areas of expertise or interest, including the following topics:Robust and Stable Control Theory, Lateral Vehicle Dynamics, Non-linear Model Predictive Control,Indirect Optimization (PMP),Semidefinite Programming,Multi-Robot Distributed Control,Kalman Filtering Based Estimation. I am also involved with publishing research findings in major peer-reviewed professional journals and/or presenting them at conferences, seminars, or similar venues;
-
-I also participate in department and university-wide events or projects, as designated;
-
-Serving in various academic or administrative committees such as Search and Screen
-
-Committees, Accreditation Review Committees, etc., as designated.
-
-Getting started
+<!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
@@ -83,4 +41,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
