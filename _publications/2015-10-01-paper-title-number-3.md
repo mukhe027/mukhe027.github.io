@@ -21,7 +21,7 @@ In this letter, we consider two coupled problems for distributed multi-robot sys
 <body> 
   
     <iframe height="480" width="500" 
-            src="https://www.youtube.com/embed/6Rlvg3mAAgo"> 
+            src="https://www.youtube.com/embed/6Rlvg3mAAgoautoplay=1&mute=1"> 
       </iframe> 
   
 </body> 
