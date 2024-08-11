@@ -16,7 +16,7 @@ solve. I have extensive experience in software development for energy efficient 
 applications, in distributed, stable and safe coordination of multi-robot systems and in applying
 learning methods to control robots for specific applications in agriculture, such as diseases detection
 in wheat crops using autonomous drones and weed termination in cow pastures using autonomous
-tractors. My work has been covered by several media houses, most recently by PBS and WDBJ7
+tractors. My work has been covered by several media houses, most recently by [PBS](https://video.pioneer.org/video/weed-terminator-p0gu14/) and [WDBJ7](https://www.wdbj7.com/content/news/VT-researchers-look-at-autonomous-drones-for-search-and-rescue-missions--512963501.html)
 network for research on agricultural robots and search and rescue operations, respectively.
 
 Outside of research, I am involved with endurance sports. I completed my first marathon at
