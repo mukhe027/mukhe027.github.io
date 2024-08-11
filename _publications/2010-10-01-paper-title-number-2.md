@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Multi-Robot Field of View Control with Adaptive Decentralization"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'Experimental Validation of topology control of multi-robot system.'
+date: 2022-10-01
+venue: 'IEEE Transactions on Robotics'
+# slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9698245'
+citation: 'Santilli, Matteo, et al. "Multirobot field of view control with adaptive decentralization." IEEE Transactions on Robotics 38.4 (2022): 2131-2150.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+In this article, we address the problem of coordinating the motion of a team of robots with limited field of view (FOV), which induces asymmetry in their interactions. In this context, we first propose a general coordinated motion framework for multirobot systems with triangular FOV capable of guaranteeing stability under asymmetric (directed) interactions. In deriving this framework, we illustrate that asymmetry in multirobot interactions can lead to degenerate configurations for which a fully decentralized controller may be insufficient to achieve coordination. Thus, we introduce a switching control mechanism that achieves adaptive decentralization , enabling collaborative behaviors that seek support of a centralized planner for situations that are inherently unstable (degenerate). To demonstrate the generality of our framework we provide a case study involving varying team objectives, such as topology control, that the robots can achieve with limited FOV, while remaining stable. Experimental and numerical validations based on the previously discussed case study are provided to corroborate the theoretical findings

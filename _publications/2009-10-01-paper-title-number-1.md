@@ -2,7 +2,7 @@
 title: "Hardware-in-the-loop testbed for evaluating connected vehicle applications"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Evaluation of CACC application using HiLS'
+excerpt: 'Evaluation of CACC application using HiLS.'
 date: 2017-10-01
 venue: 'Transportation Research Part C: Emerging Technologies'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
