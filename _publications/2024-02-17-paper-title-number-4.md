@@ -20,7 +20,7 @@ In this paper, we address the problem of optimal topology selection for stable c
 <body> 
   
     <iframe height="480" width="500" 
-            src="https://www.youtube.com/embed/lPIjzVk9-Vwautoplay=1&mute=1"> 
+            src="https://www.youtube.com/embed/lPIjzVk9-Vw?autoplay=1&mute=1"> 
       </iframe> 
   
 </body> 

@@ -22,7 +22,7 @@ In this article, we address the problem of coordinating the motion of a team of 
 <body> 
   
     <iframe height="480" width="500" 
-            src="https://www.youtube.com/embed/LzSZZvOKMm4autoplay=1&mute=1"> 
+            src="https://www.youtube.com/embed/LzSZZvOKMm4?autoplay=1&mute=1"> 
       </iframe> 
   
 </body> 
