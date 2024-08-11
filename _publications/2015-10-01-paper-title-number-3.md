@@ -11,3 +11,17 @@ citation: 'Mukherjee, Pratik, et al. "Distributed adaptive and resilient control
 ---
 
 In this letter, we consider two coupled problems for distributed multi-robot systems (MRSs) coordinating with on-board sensors: rejection of sensor attacks and adaptive tuning of interaction gains . First, MRSs with on-board sensors can be more susceptible to sensor attacks, and therefore must be resilient to such attacks. Second, a typical shortcoming of distributed control frameworks (e.g., potential fields) is that the overall system behavior is highly sensitive to the gain assigned to relative interactions. Therefore, we derive H∞ control protocols by employing a static output-feedback technique, guaranteeing bounded L2 gains of the error induced by the attack (fault) signals for a potential-based control framework developed for the particular application of limited fields of view (FOVs) control of MRS with additive sensor and actuator attacks (or faults). Moreover, to overcome the shortcomings of general potential-based control framework in the first place, we also apply an adaptive gain tuning scheme based on satisfying nominal pairwise interactions , which yields a dynamic balancing of interaction strengths in a robot’s neighborhood. Finally, simulation results using ROS Gazebo are provided to support our theoretical findings.
+<head> 
+    <meta charset="UTF-8"> 
+    <meta name="viewport" 
+          content="width=device-width, initial-scale=1.0"> 
+    <title>YouTube video embed with autoplay and mute</title> 
+</head> 
+  
+<body> 
+  
+    <iframe height="480" width="500" 
+            src="https://www.youtube.com/embed/6Rlvg3mAAgo"> 
+      </iframe> 
+  
+</body> 
