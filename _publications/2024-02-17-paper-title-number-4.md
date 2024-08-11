@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 4"
+title: "Optimal Topology Selection for Stable Coordination of Asymmetrically Interacting Multi-Robot Systems"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+excerpt: 'Topology selection for multi-robot optimal control.'
+date: 2020-09-17
+venue: 'IEEE International Conference on Robotics and Automation (ICRA)'
+paperurl: 'https://ieeexplore.ieee.org/xpl/conhome/9187508/proceeding'
+citation: 'Mukherjee, Pratik, et al. "Optimal topology selection for stable coordination of asymmetrically interacting multi-robot systems." 2020 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2020.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+In this paper, we address the problem of optimal topology selection for stable coordination of multi-robot systems with asymmetric interactions. This problem arises naturally for multi-robot systems that interact based on sensing, e.g., with limited field of view (FOV) cameras. From our previous efforts on motion control in such settings, we have shown that not all interaction topologies yield stable coordinated motion when asymmetry exists. At the same time, not all robot-to-robot interactions are of equal quality, and thus we seek to optimize asymmetric interaction topologies subject to the constraint that the topology yields stable multi-robot motion. In this context, we formulate an optimal topology selection problem (OTSP) as a mixed integer semidefinite programming (MISDP) problem to compute optimal topologies that yield stable coordinated motion. Simulation results are provided to corroborate the effectiveness of the proposed OTSP formulation.
