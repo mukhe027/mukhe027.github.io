@@ -23,3 +23,18 @@ provide rigorous theoretical analysis that enables stable coordination of multi-
 with limited interactions induced by sensor capabilities such as cameras; ii) We developed
 a testbed that enables testing of our theoretical contribution with a team of real robots in
 realistic environmental conditions.
+
+<head> 
+    <meta charset="UTF-8"> 
+    <meta name="viewport" 
+          content="width=device-width, initial-scale=1.0"> 
+    <title>YouTube video embed with autoplay and mute</title> 
+</head> 
+  
+<body> 
+  
+    <iframe height="480" width="500" 
+            src="https://www.youtube.com/embed/il_t1WVLNxk?autoplay=1&mute=1"> 
+      </iframe> 
+  
+</body> 
