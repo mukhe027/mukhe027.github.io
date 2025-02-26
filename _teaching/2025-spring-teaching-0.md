@@ -8,5 +8,4 @@ date: 2025-01-04
 location: "Florida, US"
 ---
 
-Z-domain analysis, transfer functions, stability and frequency re-
-sponse.
+Laplace Transforms, Block Diagram Reduction, Transient Responses, PID control.
