@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to SCUBA (Scaling Collaborative Unmanned roBots for Autonomy) lab at FAU's Ocean and Mechanical Engineering department"
+title: "Welcome to [SCUBA](https://mukhe027.github.io/scubalab/) (Scaling Collaborative Unmanned roBots for Autonomy) lab at FAU's Ocean and Mechanical Engineering department"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 <img src='/images/scuba.png'>
 
-I am an Assistant Professor in the Ocean and Mechanical Engineering Department at Florida Atlantic University(FAU). I am part of SeaTech at FAU. I head the SCUBA (Scaling Collaborative Unmanned roBots for Autonomy) Lab. Prior to this, I was a Postdoctoral Associate at Minnesota Robotics Institute (MnRI) associated with the Computer Science and Engineering Department at Uniuversity of Minnesota Twin-Cities, I got my PhD in Electrical Engineering from Virginia Tech in 2021. I got my MSc and BSc in Mechanical Engineering from the University of Minnesota Twin-Cities in 2016 and 2014, respectively.
+I am an Assistant Professor in the Ocean and Mechanical Engineering Department at Florida Atlantic University(FAU). I am part of SeaTech at FAU. I head the [SCUBA](https://mukhe027.github.io/scubalab/) (Scaling Collaborative Unmanned roBots for Autonomy) Lab. Prior to this, I was a Postdoctoral Associate at Minnesota Robotics Institute (MnRI) associated with the Computer Science and Engineering Department at Uniuversity of Minnesota Twin-Cities, I got my PhD in Electrical Engineering from Virginia Tech in 2021. I got my MSc and BSc in Mechanical Engineering from the University of Minnesota Twin-Cities in 2016 and 2014, respectively.
 
  My research is at the cusp of control theory and learning. My diverse background, that stems from Mechanical, Electrical
 and Computer Science engineering allows me to have a unique perspective to every problem I
